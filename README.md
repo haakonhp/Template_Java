@@ -1,6 +1,5 @@
 # Template_Java <br>
 ## Template
-<br>
 ____________________________________________________________________________________________________________<br>
 ### Issue and Pull Request templates: <br>
 #### _Git Configuration:_ <br> 
